@@ -1,0 +1,13 @@
+*.kzr
+*.erofs
+*.img
+*.iso
+*.bin
+*.rom
+*.key
+keys.txt
+firmware/
+bios/
+games/
+saves/
+profiles/
