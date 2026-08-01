@@ -54,6 +54,7 @@ remain controlled by Kazeta/Kazeta+.
   `.kazeta/share/run` entry point. They are intended for current x86-64
   Kazeta/Kazeta+ systems, but not every game is compatible with every emulator.
 - Some systems require firmware or keys supplied by the user. See
+  [BIOS-GUIDE.md](BIOS-GUIDE.md) and
   [RUNTIME-CATALOG.md](RUNTIME-CATALOG.md). Those files are not included here.
 - Windows, Linux, Cemu, Vita3K, xemu, and some emulator packages are larger or
   more demanding than classic-system runtimes.
