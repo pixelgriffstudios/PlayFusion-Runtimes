@@ -1,12 +1,20 @@
 # PlayFusion Runtimes
 
+> **Looking for the actual `.kzr` files?** They are stored on the
+> **[PlayFusion Runtimes v1.0.0 download page](https://github.com/pixelgriffstudios/PlayFusion-Runtimes/releases/tag/v1.0.0)**,
+> not in the Code file list. Open **Assets** on that page to see and download
+> all 37 runtimes individually.
+
 Kazeta-compatible runtime images used and tested by PlayFusion. The release page
 provides each `.kzr` separately so users of vanilla Kazeta, Kazeta+, or
 PlayFusion can download only the systems they need.
 
 ## Downloads
 
-Download runtime files from the
+**[Open the runtime download list (37 `.kzr` files)](https://github.com/pixelgriffstudios/PlayFusion-Runtimes/releases/tag/v1.0.0)**
+
+Runtime binaries are GitHub Release assets because several exceed GitHub's
+100 MB limit for ordinary repository files. Download runtime files from the
 [latest release](https://github.com/pixelgriffstudios/PlayFusion-Runtimes/releases/latest).
 Verify downloads with `SHA256SUMS.txt`.
 
